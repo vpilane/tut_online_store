@@ -22,7 +22,7 @@ public class EntitiesApplication {
             aaa.setUsername("admin");
             aaa.setPassword("123");
 			aaa.setRole("Administrator");
-            ar.save(aaa);
+            //ar.save(aaa);
             // ar.save(new Account("123456789", "123456789", "123456789", "123456789", "123456789", "123456789"));
         };
     }
